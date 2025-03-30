@@ -45,3 +45,4 @@ if __name__ == "__main__":
     import asyncio
     server = WhisperSTT.from_args()
     asyncio.run(server.run())
+
