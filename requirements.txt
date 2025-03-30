@@ -1,2 +1,3 @@
-wyoming==1.5.3
-faster-whisper==1.1.0
+faster-whisper
+wyoming
+requests
